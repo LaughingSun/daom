@@ -1,4 +1,4 @@
-# Extensable Structured Data Access Object Manager
+# Extensible Structured Data Access Object Manager
 
 An Extensable Structured Data Access Object Manager for use within C or C++ programs to support various data object formats, including but not limited to: JSON, JSONP, BSON, plus custom structs and unions.
 
